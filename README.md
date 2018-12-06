@@ -14,6 +14,5 @@
 - [Lesson: Prop Events](./01.Lessons/10.PropEvents.md)
 - [Demo: Voting App Pt. 1](./02.Assignments/03.VotingApp1.md)
 - [Lesson: Stateful Components](./01.Lessons/11.StatefulComponents.md)
-- [Lesson: React Developer Tools](./01.Lessons/12.ReactDeveloperTools.md)
 - [Lesson: Webpack + create-react-app](./01.Lessons/13.create-react-app.md)
 - [Assignment: Voting App Pt. 2](./02.Assignments/04.VotingApp2.md)
